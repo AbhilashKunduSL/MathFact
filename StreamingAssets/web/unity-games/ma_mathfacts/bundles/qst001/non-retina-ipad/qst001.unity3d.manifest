@@ -1,0 +1,67 @@
+ManifestFileVersion: 0
+CRC: 3154120338
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1437f214e9a70dbb39478acc5f013b5c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 949e49fee2a8baa81efe791418501c01
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/ma_math_facts/res/non-retina/quests/qst001/npc_spine/0.5/npc_quest.atlas.txt
+- Assets/ma_math_facts/res/non-retina/quests/qst001/npc_spine/0.5/npc_quest.json
+- Assets/ma_math_facts/res/non-retina/quests/qst001/effects/machine_start0009.png
+- Assets/ma_math_facts/res/non-retina/quests/qst001/effects/machine_start0004.png
+- Assets/ma_math_facts/res/non-retina/quests/qst001/effects/machine_start0006.png
+- Assets/ma_math_facts/res/non-retina/quests/qst001/effects/machine_start0011.png
+- Assets/ma_math_facts/res/non-retina/quests/qst001/effects/machine_start0005.png
+- Assets/ma_math_facts/res/non-retina/quests/qst001/effects/machine_start0010.png
+- Assets/ma_math_facts/res/non-retina/quests/qst001/npc_spine/0.5/npc_quest.png
+- Assets/ma_math_facts/res/non-retina/quests/qst001/audios/qst001_firstmeet_5.mp3
+- Assets/ma_math_facts/res/non-retina/quests/qst001/audios/qst001_firstmeet_2.mp3
+- Assets/ma_math_facts/res/non-retina/quests/qst001/audios/qst001_end_1.mp3
+- Assets/ma_math_facts/res/non-retina/quests/qst001/images/side_placed_machine.png
+- Assets/ma_math_facts/res/non-retina/quests/qst001/npc_spine/0.5/npc_quest_Material.mat
+- Assets/ma_math_facts/res/non-retina/quests/qst001/npc_spine/0.5/npc_quest_Atlas.asset
+- Assets/ma_math_facts/res/non-retina/quests/qst001/audios/qst001_notendyet_1.mp3
+- Assets/ma_math_facts/res/non-retina/quests/qst001/effects/machine_start0007.png
+- Assets/ma_math_facts/res/non-retina/quests/qst001/effects/machine_start0003.png
+- Assets/ma_math_facts/res/non-retina/quests/qst001/animation/effect_anim.anim
+- Assets/ma_math_facts/res/non-retina/quests/qst001/effects/machine_start0008.png
+- Assets/ma_math_facts/res/non-retina/quests/qst001/audios/qst001_firstmeet_3.mp3
+- Assets/ma_math_facts/res/non-retina/quests/qst001/effects/machine_start0002.png
+- Assets/ma_math_facts/res/non-retina/quests/qst001/effects/machine_start0012.png
+- Assets/ma_math_facts/res/non-retina/quests/qst001/audios/qst001_gotitem_2.mp3
+- Assets/ma_math_facts/res/non-retina/quests/qst001/npc_spine/0.5/npc_quest_SkeletonData.asset
+- Assets/ma_math_facts/res/non-retina/quests/qst001/audios/qst001_gotitem_1.mp3
+- Assets/ma_math_facts/res/non-retina/quests/qst001/audios/qst001_firstmeet_4.mp3
+- Assets/ma_math_facts/res/non-retina/quests/qst001/audios/qst001_firstmeet_6.mp3
+- Assets/ma_math_facts/res/non-retina/quests/qst001/audios/qst001_noitemyet_1.mp3
+- Assets/ma_math_facts/res/non-retina/quests/qst001/animation/effect_animator.controller
+- Assets/ma_math_facts/res/non-retina/quests/qst001/audios/qst001_firstmeet_1.mp3
+- Assets/ma_math_facts/res/non-retina/quests/qst001/effects/machine_start0001.png
+Dependencies: []

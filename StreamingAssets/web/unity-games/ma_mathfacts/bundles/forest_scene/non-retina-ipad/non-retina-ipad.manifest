@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2255876748
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: forest_scene.unity3d
+      Dependencies: {}

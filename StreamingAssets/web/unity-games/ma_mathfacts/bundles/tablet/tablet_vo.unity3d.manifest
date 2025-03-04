@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 3740093995
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3cd5c778e704aeb7ac142de53cf7d6c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_tut_nowhitegems_3.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_hnt_hl1numlist_4.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_hnt_hl2tablet_2.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_hnt_hl2tablet_4.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_hnt_hl2tablet_1.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_hnt_hl1quest_2.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_tut_quest_1.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_hnt_hl2tablet_5.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_tut_tablet_1.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_hnt_hl1anuminfo_2.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_hnt_hl1item_1.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_hnt_hl1atablet_2.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_hnt_hl2tablet_3.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_hnt_hl1quest_4.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_hnt_hl1atablet_1.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_tut_nowhitegems_2.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_tut_item_1.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_hnt_hl1numlist_3.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_hnt_hl1atablet_3.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_hnt_hl2tablet_7.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_hnt_hl1anuminfo_1.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_tut_nowhitegems_4.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_hnt_hl1quest_1.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_hnt_hl1quest_3.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_hnt_hl1anuminfo_3.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_tut_numera_2.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_hnt_hl2tablet_6.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_hnt_hl1item_2.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_hnt_hl1numlist_1.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_hnt_hl1numlist_5.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_hnt_hl1anuminfo_4.mp3
+- Assets/ma_math_facts/res/english/tablet_vo/tablet_hnt_hl1numlist_2.mp3
+Dependencies: []

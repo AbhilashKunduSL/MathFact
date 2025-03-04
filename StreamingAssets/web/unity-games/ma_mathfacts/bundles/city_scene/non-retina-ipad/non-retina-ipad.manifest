@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2592527002
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: city_scene.unity3d
+      Dependencies: {}

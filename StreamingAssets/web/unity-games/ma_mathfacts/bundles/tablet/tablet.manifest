@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3214942999
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: tablet_vo.unity3d
+      Dependencies: {}

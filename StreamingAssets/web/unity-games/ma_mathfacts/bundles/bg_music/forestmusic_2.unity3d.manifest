@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3960640042
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aec411a705e42f8344789d57103534e0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/ma_math_facts/res/english/bg_music/forestmusic_2.mp3
+Dependencies: []

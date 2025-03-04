@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3463878444
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: common_vo.unity3d
+      Dependencies: {}
