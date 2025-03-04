@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3558067377
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: portal_scene.unity3d
+      Dependencies: {}

@@ -1,0 +1,591 @@
+{
+  "bundles": [
+//    {
+//      "ismultiple": false,
+//      "getallfilesindirectory": "FALSE,FALSE,FALSE",
+//      "bundle": "portal_scene",
+//      "gamename": "ma_math_facts",
+//      "folderpath": "prefabs/non-retina/portal/portal_scene.prefab,prefabs/non-retina/portal/new_portal_scene.prefab,prefabs/non-retina/ipad/portal_atlas.spriteatlas",
+//      "customdestinationpath": "",
+//      "destination": "ma_mathfacts/bundles/non-retina-ipad"
+//    },
+//    {
+//      "ismultiple": false,
+//      "getallfilesindirectory": "FALSE,FALSE",
+//      "bundle": "tablet",
+//      "gamename": "ma_math_facts",
+//      "folderpath": "prefabs/non-retina/city_scene/tablet_canvas.prefab,prefabs/non-retina/city_scene/new_tablet_canvas.prefab",
+//      "customdestinationpath": "",
+//      "destination": "ma_mathfacts/bundles/non-retina-ipad"
+//    },
+    {
+      "ismultiple": false,
+      "getallfilesindirectory": "TRUE,FALSE,FALSE",
+      "bundle": "forest_scene",
+      "gamename": "ma_math_facts",
+      "folderpath": "prefabs/non-retina/final_forest3/forest_levels,prefabs/non-retina/forest/friending_game.prefab,prefabs/non-retina/forest/new_friending_game.prefab",
+      "customdestinationpath": "",
+      "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    }
+//  ,
+  // {
+  //           "ismultiple": false,
+  //           "getallfilesindirectory": "FALSE",
+  //           "bundle": "citymusic_1",
+  //           "gamename": "ma_math_facts",
+  //           "folderpath": "res/english/bg_music/citymusic_1.mp3",
+  //           "customdestinationpath": "TRUE",
+  //           "destination": "ma_mathfacts/bundles/bg_music"
+  //       },
+  //       {
+  //           "ismultiple": false,
+  //           "getallfilesindirectory": "FALSE",
+  //           "bundle": "citymusic_2",
+  //           "gamename": "ma_math_facts",
+  //           "folderpath": "res/english/bg_music/citymusic_2.mp3",
+  //           "customdestinationpath": "TRUE",
+  //           "destination": "ma_mathfacts/bundles/bg_music"
+  //       },
+  //       {
+  //           "ismultiple": false,
+  //           "getallfilesindirectory": "FALSE",
+  //           "bundle": "citymusic_3",
+  //           "gamename": "ma_math_facts",
+  //           "folderpath": "res/english/bg_music/citymusic_3.mp3",
+  //           "customdestinationpath": "TRUE",
+  //           "destination": "ma_mathfacts/bundles/bg_music"
+  //       },
+  //       {
+  //           "ismultiple": false,
+  //           "getallfilesindirectory": "FALSE",
+  //           "bundle": "citymusic_4",
+  //           "gamename": "ma_math_facts",
+  //           "folderpath": "res/english/bg_music/citymusic_4.mp3",
+  //           "customdestinationpath": "TRUE",
+  //           "destination": "ma_mathfacts/bundles/bg_music"
+  //       },
+  //       {
+  //           "ismultiple": false,
+  //           "getallfilesindirectory": "FALSE",
+  //           "bundle": "forestmusic_1",
+  //           "gamename": "ma_math_facts",
+  //           "folderpath": "res/english/bg_music/forestmusic_1.mp3",
+  //           "customdestinationpath": "TRUE",
+  //           "destination": "ma_mathfacts/bundles/bg_music"
+  //       },
+  //       {
+  //           "ismultiple": false,
+  //           "getallfilesindirectory": "FALSE",
+  //           "bundle": "forestmusic_2",
+  //           "gamename": "ma_math_facts",
+  //           "folderpath": "res/english/bg_music/forestmusic_2.mp3",
+  //           "customdestinationpath": "TRUE",
+  //           "destination": "ma_mathfacts/bundles/bg_music"
+  //       },
+  //       {
+  //           "ismultiple": false,
+  //           "getallfilesindirectory": "FALSE",
+  //           "bundle": "forestmusic_3",
+  //           "gamename": "ma_math_facts",
+  //           "folderpath": "res/english/bg_music/forestmusic_3.mp3",
+  //           "customdestinationpath": "TRUE",
+  //           "destination": "ma_mathfacts/bundles/bg_music"
+  //       },
+  //       {
+  //           "ismultiple": false,
+  //           "getallfilesindirectory": "FALSE",
+  //           "bundle": "forestmusic_4",
+  //           "gamename": "ma_math_facts",
+  //           "folderpath": "res/english/bg_music/forestmusic_4.mp3",
+  //           "customdestinationpath": "TRUE",
+  //           "destination": "ma_mathfacts/bundles/bg_music"
+  //       }
+
+    //     ,
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "",
+    //         "bundle": "cafe_vo",
+    //         "gamename": "ma_math_facts",
+    //         "folderpath": "res/english/cafe_vo",
+    //         "customdestinationpath": "TRUE",
+    //         "destination": "ma_mathfacts/bundles/cafe_scene"
+    //     }
+    //     ,
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "",
+    //         "bundle": "city_vo",
+    //         "gamename": "ma_math_facts",
+    //         "folderpath": "res/english/city_vo",
+    //         "customdestinationpath": "TRUE",
+    //         "destination": "ma_mathfacts/bundles/city_scene"
+    //     }
+    //     ,
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "common_vo",
+    //         "gamename": "ma_math_facts",
+    //         "folderpath": "res/english/common_vo,res/sfx/CityDEV,res/sfx/CookingDEV,res/sfx/ForestDEV,res/sfx/FriendingDEV,res/sfx/NewAudio,res/sfx/PortalDEV,res/sfx/QuestDEV,res/sfx/ShopDEV",
+    //         "customdestinationpath": "TRUE",
+    //         "destination": "ma_mathfacts/bundles/integrated_scene"
+    //     }
+    //     ,
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "",
+    //         "bundle": "forest_vo",
+    //         "gamename": "ma_math_facts",
+    //         "folderpath": "res/english/forest_vo",
+    //         "customdestinationpath": "TRUE",
+    //         "destination": "ma_mathfacts/bundles/forest_scene"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "",
+    //         "bundle": "junk_shop_vo",
+    //         "gamename": "ma_math_facts",
+    //         "folderpath": "res/english/junk_shop_vo",
+    //         "customdestinationpath": "TRUE",
+    //         "destination": "ma_mathfacts/bundles/junk_shop"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "",
+    //         "bundle": "mayor_shop_vo",
+    //         "gamename": "ma_math_facts",
+    //         "folderpath": "res/english/mayor_shop_vo",
+    //         "customdestinationpath": "TRUE",
+    //         "destination": "ma_mathfacts/bundles/mayor_shop"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "",
+    //         "bundle": "portal_vo",
+    //         "gamename": "ma_math_facts",
+    //         "folderpath": "res/english/portal_vo",
+    //         "customdestinationpath": "TRUE",
+    //         "destination": "ma_mathfacts/bundles/portal_scene"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "",
+    //         "bundle": "spirit_shop_vo",
+    //         "gamename": "ma_math_facts",
+    //         "folderpath": "res/english/spirit_shop_vo",
+    //         "customdestinationpath": "TRUE",
+    //         "destination": "ma_mathfacts/bundles/spirit_shop"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "",
+    //         "bundle": "tablet_vo",
+    //         "gamename": "ma_math_facts",
+    //         "folderpath": "res/english/tablet_vo",
+    //         "customdestinationpath": "TRUE",
+    //         "destination": "ma_mathfacts/bundles/tablet"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "",
+    //         "bundle": "tech_shop_vo",
+    //         "gamename": "ma_math_facts",
+    //         "folderpath": "res/english/tech_shop_vo",
+    //         "customdestinationpath": "TRUE",
+    //         "destination": "ma_mathfacts/bundles/tech_shop"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "FALSE",
+    //         "bundle": "lobby",
+    //         "gamename": "ma_math_facts",
+    //         "folderpath": "prefabs/non-retina/ipad/lobby.prefab",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/lobby/ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "FALSE,FALSE",
+    //         "bundle": "cafe_scene",
+    //         "gamename": "ma_math_facts",
+    //         "folderpath": "prefabs/non-retina/cafe/cafe_scene.prefab,prefabs/non-retina/ipad/cafe_atlas.spriteatlas",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+//        {
+//             "ismultiple": false,
+//             "getallfilesindirectory": "FALSE,FALSE,FALSE",
+//             "bundle": "portal_scene",
+//             "gamename": "ma_math_facts",
+//             "folderpath": "prefabs/non-retina/portal/portal_scene.prefab,prefabs/non-retina/portal/new_portal_scene.prefab,prefabs/non-retina/ipad/portal_atlas.spriteatlas",
+//             "customdestinationpath": "",
+//             "destination": "ma_mathfacts/bundles/non-retina-ipad"
+//         },
+//          {
+//             "ismultiple": false,
+//             "getallfilesindirectory": "FALSE",
+//             "bundle": "city_scene",
+//             "gamename": "ma_math_facts",
+//             "folderpath": "prefabs/non-retina/city_scene/city_scene.prefab",
+//             "customdestinationpath": "",
+//             "destination": "ma_mathfacts/bundles/non-retina-ipad"
+//         }
+    //     ,
+//        {
+//             "ismultiple": false,
+//             "getallfilesindirectory": "FALSE,FALSE",
+//             "bundle": "tablet",
+//             "gamename": "ma_math_facts",
+//             "folderpath": "prefabs/non-retina/city_scene/tablet_canvas.prefab,prefabs/non-retina/city_scene/new_tablet_canvas.prefab",
+//             "customdestinationpath": "",
+//             "destination": "ma_mathfacts/bundles/non-retina-ipad"
+//         },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "FALSE",
+    //         "bundle": "clothes_shop",
+    //         "gamename": "ma_math_facts",
+    //         "folderpath": "prefabs/non-retina/ipad/shops/clothes_shop.prefab",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "FALSE",
+    //         "bundle": "tech_shop",
+    //         "gamename": "ma_math_facts",
+    //         "folderpath": "prefabs/non-retina/ipad/shops/hardware_shop.prefab",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "FALSE",
+    //         "bundle": "mayor_shop",
+    //         "gamename": "ma_math_facts",
+    //         "folderpath": "prefabs/non-retina/ipad/shops/mayor_shop.prefab",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "FALSE",
+    //         "bundle": "junk_shop",
+    //         "gamename": "ma_math_facts",
+    //         "folderpath": "prefabs/non-retina/ipad/shops/junk_shop.prefab",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //      {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "FALSE",
+    //         "bundle": "spirit_shop",
+    //         "gamename": "ma_math_facts",
+    //         "folderpath": "prefabs/non-retina/ipad/shops/spirit_shop.prefab",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+//        {
+//             "ismultiple": false,
+//             "getallfilesindirectory": "TRUE,FALSE,FALSE",
+//             "bundle": "forest_scene",
+//             "gamename": "ma_math_facts",
+//             "folderpath": "prefabs/non-retina/final_forest3/forest_levels,prefabs/non-retina/forest/friending_game.prefab,prefabs/non-retina/forest/new_friending_game.prefab",
+//             "customdestinationpath": "",
+//             "destination": "ma_mathfacts/bundles/non-retina-ipad"
+//         }
+//         ,
+//         {
+//             "ismultiple": false,
+//             "getallfilesindirectory": "FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE",
+//             "bundle": "integrated_scene",
+//             "gamename": "ma_math_facts",
+//             "folderpath": "empty.mp3,prefabs/non-retina/integrated_scene,res/hand-gesture/handgesture.prefab,res/hand-gesture/ui/handgesture_ui.prefab,res/non-retina/clothes_shop/animations/builder_dress/1,res/non-retina/clothes_shop/animations/cowboy_dress/1,res/non-retina/clothes_shop/animations/funky_dress/1,res/non-retina/clothes_shop/animations/pilot_dress/1,res/non-retina/clothes_shop/animations/space_dress/1,res/non-retina/clothes_shop/animations/vanilla_dress/1",
+//             "customdestinationpath": "",
+//             "destination": "ma_mathfacts/bundles/non-retina-ipad"
+//         }
+    //      ,
+    // {
+    //     "ismultiple": false,
+    //     "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //     "bundle": "qst001",
+    //     "gamename": "ma_math_facts/res/non-retina/quests/qst001",
+    //     "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //     "customdestinationpath": "",
+    //     "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     }
+    //     ,
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst002",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst002",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst003",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst003",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst004",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst004",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst005",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst005",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst006",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst006",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst007",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst007",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst008",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst008",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst009",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst009",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst010",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst010",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst011",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst011",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst012",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst012",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst013",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst013",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst014",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst014",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst015",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst015",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst016",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst016",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst017",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst017",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst018",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst018",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst019",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst019",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst020",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst020",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     }
+    //     ,
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst021",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst021",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst022",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst022",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst023",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst023",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst024",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst024",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst025",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst025",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst026",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst026",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst027",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst027",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst028",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst028",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst029",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst029",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst030",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst030",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     },
+    //     {
+    //         "ismultiple": false,
+    //         "getallfilesindirectory": "TRUE,TRUE,TRUE,TRUE,TRUE",
+    //         "bundle": "qst031",
+    //         "gamename": "ma_math_facts/res/non-retina/quests/qst031",
+    //         "folderpath": "animation,audios,effects,images,npc_spine/0.5",
+    //         "customdestinationpath": "",
+    //         "destination": "ma_mathfacts/bundles/non-retina-ipad"
+    //     }
+  ]
+}

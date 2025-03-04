@@ -1,0 +1,75 @@
+ManifestFileVersion: 0
+CRC: 4290297253
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d816e75b081754880f6b6a10bf9b9b1e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/ma_math_facts/res/english/forest_vo/forest_dlg_fruitbarfull_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_hnt_hl3a1_5.mp3
+- Assets/ma_math_facts/res/english/forest_vo/forest_dlg_portaltap_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/forest_hnt_numeraprints_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/forest_tut_beggining_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_tut_critical_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_dlg_correct_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_dlg_tabletup_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_hnt_hl2a1_4.mp3
+- Assets/ma_math_facts/res/english/forest_vo/forest_hnt_hl1anpc_2.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_dlg_batteryempty_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/forest_hnt_hl1amvmt_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_dlg_incorrect_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_dlg_collectnumera_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/forest_tut_afterhint_2.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_hnt_hl2a2_2.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_dlg_critical_2.mp3
+- Assets/ma_math_facts/res/english/forest_vo/forest_dlg_numeraspot_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_tut_critical_4.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_tut_numeraintro_3.mp3
+- Assets/ma_math_facts/res/english/forest_vo/forest_tut_afterhint_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/forest_dlg_collectfruit_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_dlg_correct_2.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_hnt_hl3a1_2.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_tut_numeraintro_4.mp3
+- Assets/ma_math_facts/res/english/forest_vo/forest_dlg_collectfruit_2.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_dlg_critical_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/forest_dlg_numeraspot_3.mp3
+- Assets/ma_math_facts/res/english/forest_vo/forest_hnt_hl1anpc_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/forest_tut_nowhitegems_2.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_hnt_hl3a1_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/forest_hnt_hl1afrut_3.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_hnt_hl3a1_4.mp3
+- Assets/ma_math_facts/res/english/forest_vo/forest_hnt_hl1afrut_2.mp3
+- Assets/ma_math_facts/res/english/forest_vo/forest_tut_numerapointer_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_tut_battery_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/forest_hnt_hl1bldg_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/forest_tut_nowhitegems_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_hnt_hl1a1_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_hnt_hl1a2_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/forest_hnt_hl2afrut_2.mp3
+- Assets/ma_math_facts/res/english/forest_vo/forest_hnt_hl3afrut_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_tut_critical_2.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_hnt_hl1a1_3.mp3
+- Assets/ma_math_facts/res/english/forest_vo/forest_hnt_hl1afrut_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_dlg_incorrect_2.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_tut_numeraintro_2.mp3
+- Assets/ma_math_facts/res/english/forest_vo/forest_tut_nowhitegems_3.mp3
+- Assets/ma_math_facts/res/english/forest_vo/forest_dlg_blurb_3.mp3
+- Assets/ma_math_facts/res/english/forest_vo/forest_dlg_numeraspot_2.mp3
+- Assets/ma_math_facts/res/english/forest_vo/forest_dlg_blurb_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/forest_tut_nowhitegems_4.mp3
+- Assets/ma_math_facts/res/english/forest_vo/forest_dlg_blurb_2.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_hnt_hl1a2_2.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_tut_critical_3.mp3
+- Assets/ma_math_facts/res/english/forest_vo/forest_dlg_spotmonument_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_tut_numerafound_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_hnt_hl2a1_3.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_tut_numeraintro_1.mp3
+- Assets/ma_math_facts/res/english/forest_vo/friending_hnt_hl1a1_2.mp3
+Dependencies: []

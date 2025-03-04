@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2623244866
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 62d9839076185ba534e6ebd57f7434b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/ma_math_facts/res/english/bg_music/citymusic_4.mp3
+Dependencies: []

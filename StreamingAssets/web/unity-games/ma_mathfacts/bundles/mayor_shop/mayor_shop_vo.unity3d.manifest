@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1456855788
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dd60edc754d5d31964dc7e9abdaf4293
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/ma_math_facts/res/english/mayor_shop_vo/mayor_dlg_noredgems_1.mp3
+- Assets/ma_math_facts/res/english/mayor_shop_vo/mayor_dlg_exit_1.mp3
+- Assets/ma_math_facts/res/english/mayor_shop_vo/mayor_dlg_choice_1.mp3
+- Assets/ma_math_facts/res/english/mayor_shop_vo/mayor_dlg_welcome_1.mp3
+- Assets/ma_math_facts/res/english/mayor_shop_vo/mayor_dlg_cancel_1.mp3
+- Assets/ma_math_facts/res/english/mayor_shop_vo/mayor_dlg_bought_1.mp3
+- Assets/ma_math_facts/res/english/mayor_shop_vo/mayor_dlg_menu_1.mp3
+Dependencies: []

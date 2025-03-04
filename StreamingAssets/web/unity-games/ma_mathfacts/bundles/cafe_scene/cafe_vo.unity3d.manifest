@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 976071958
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 56ffd244201905c3248189edce060470
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 56ffd244201905c3248189edce060470
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_dlg_nmeraappr_3.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_dlg_nmeraappr_1.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_dlg_nmeraappr_2.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_tut_numeras_2.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_tut_ovenintro_4.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_dlg_end_1.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_hnt_hl1a2_2.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_hnt_hl1a1_1.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_tut_feedback_2.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_hnt_hl1a3_1.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_hnt_hl1a2_3.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_tut_numeraexit_1.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_hnt_hl1a2_1.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_dlg_start_1.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_hnt_hl1a1_2.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_tut_ovenintro_6.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_hnt_hl1a1_3.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_dlg_start_3.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_dlg_nofruit_1.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_dlg_end_3.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_tut_amoraback_1.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_dlg_nofruit_2.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_tut_beginning_2.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_tut_ovenintro_5.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_tut_numeraintro_2.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_tut_ovenintro_1.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_dlg_end_2.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_dlg_nmeradisappear_1.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_dlg_nmeradisappear_3.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_tut_numeras_1.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_dlg_foodappr_1.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_dlg_start_2.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_tut_ovenintro_2.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_tut_numeras_3.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_tut_feedback_1.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_tut_ovenintro_7.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_dlg_nmeradisappear_2.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_tut_aboutforest_1.mp3
+- Assets/ma_math_facts/res/english/cafe_vo/cooking_tut_ovenintro_3.mp3
+Dependencies: []

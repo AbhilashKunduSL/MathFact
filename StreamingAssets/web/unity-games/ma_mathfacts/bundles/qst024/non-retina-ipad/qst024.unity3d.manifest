@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 806988846
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5511a9154b059561de3c0a5b6e2de1e0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d176eae296a03c344697595e1d5e17e7
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/ma_math_facts/res/non-retina/quests/qst024/audios/qst024_firstmeet_1.mp3
+- Assets/ma_math_facts/res/non-retina/quests/qst024/audios/qst024_firstmeet_4.mp3
+- Assets/ma_math_facts/res/non-retina/quests/qst024/npc_spine/0.5/npc_quest.png
+- Assets/ma_math_facts/res/non-retina/quests/qst024/audios/qst024_firstmeet_3.mp3
+- Assets/ma_math_facts/res/non-retina/quests/qst024/npc_spine/0.5/npc_quest.atlas.txt
+- Assets/ma_math_facts/res/non-retina/quests/qst024/audios/qst024_noitemyet_1.mp3
+- Assets/ma_math_facts/res/non-retina/quests/qst024/npc_spine/0.5/npc_quest_Material.mat
+- Assets/ma_math_facts/res/non-retina/quests/qst024/audios/qst024_gotitem_2.mp3
+- Assets/ma_math_facts/res/non-retina/quests/qst024/audios/qst024_end_1.mp3
+- Assets/ma_math_facts/res/non-retina/quests/qst024/npc_spine/0.5/npc_quest.json
+- Assets/ma_math_facts/res/non-retina/quests/qst024/npc_spine/0.5/npc_quest_Atlas.asset
+- Assets/ma_math_facts/res/non-retina/quests/qst024/npc_spine/0.5/npc_quest_SkeletonData.asset
+- Assets/ma_math_facts/res/non-retina/quests/qst024/audios/qst024_gotitem_1.mp3
+- Assets/ma_math_facts/res/non-retina/quests/qst024/audios/qst024_firstmeet_2.mp3
+Dependencies: []
