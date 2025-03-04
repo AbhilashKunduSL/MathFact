@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3746535353
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb7ae33efdbfa69861718b193ff20367
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/ma_math_facts/res/english/portal_vo/portal_tut_explaination_4_b.mp3
+- Assets/ma_math_facts/res/english/portal_vo/portal_hnt_hl2a2_2.mp3
+- Assets/ma_math_facts/res/english/portal_vo/portal_hnt_hl2a1_1.mp3
+- Assets/ma_math_facts/res/english/portal_vo/portal_tut_portalintro_5.mp3
+- Assets/ma_math_facts/res/english/portal_vo/portal_tut_explaination_4_a.mp3
+- Assets/ma_math_facts/res/english/portal_vo/portal_hnt_hl1a1a2_2.mp3
+- Assets/ma_math_facts/res/english/portal_vo/portal_dlg_tabletup_1.mp3
+- Assets/ma_math_facts/res/english/portal_vo/portal_tut_portalintro_2.mp3
+- Assets/ma_math_facts/res/english/portal_vo/portal_hnt_hl3a1a2_4_b.mp3
+- Assets/ma_math_facts/res/english/portal_vo/portal_tut_explaination_5.mp3
+- Assets/ma_math_facts/res/english/portal_vo/portal_hnt_hl1a1a2_3.mp3
+- Assets/ma_math_facts/res/english/portal_vo/portal_tut_portalintro_1.mp3
+- Assets/ma_math_facts/res/english/portal_vo/portal_hnt_hl3a1a2_4_a.mp3
+- Assets/ma_math_facts/res/english/portal_vo/portal_hnt_hl1a1a2_1.mp3
+- Assets/ma_math_facts/res/english/portal_vo/portal_tut_explaination_2.mp3
+- Assets/ma_math_facts/res/english/portal_vo/portal_tut_explaination_1.mp3
+- Assets/ma_math_facts/res/english/portal_vo/portal_tut_goodbye_1.mp3
+- Assets/ma_math_facts/res/english/portal_vo/portal_tut_portalintro_3.mp3
+- Assets/ma_math_facts/res/english/portal_vo/portal_dlg_beforeportal_1.mp3
+- Assets/ma_math_facts/res/english/portal_vo/portal_hnt_hl2a2_1.mp3
+- Assets/ma_math_facts/res/english/portal_vo/portal_tut_portalintro_4.mp3
+- Assets/ma_math_facts/res/english/portal_vo/portal_dlg_beforeportal_2.mp3
+- Assets/ma_math_facts/res/english/portal_vo/portal_hnt_hl3a1a2_1.mp3
+- Assets/ma_math_facts/res/english/portal_vo/portal_tut_goodbye_2.mp3
+- Assets/ma_math_facts/res/english/portal_vo/portal_tut_fewmore_1.mp3
+- Assets/ma_math_facts/res/english/portal_vo/portal_hnt_hl2a1_2.mp3
+Dependencies: []

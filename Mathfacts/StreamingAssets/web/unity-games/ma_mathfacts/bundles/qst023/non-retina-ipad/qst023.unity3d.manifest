@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 1407935451
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4512d72a7c930fe9578507f74aeaf754
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7c2f852f44192e1c961cb07344fc518d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/ma_math_facts/res/non-retina/quests/qst023/audios/qst023_firstmeet_1.mp3
+- Assets/ma_math_facts/res/non-retina/quests/qst023/audios/qst023_firstmeet_2.mp3
+- Assets/ma_math_facts/res/non-retina/quests/qst023/npc_spine/0.5/npc_quest_SkeletonData.asset
+- Assets/ma_math_facts/res/non-retina/quests/qst023/audios/qst023_noitemyet_1.mp3
+- Assets/ma_math_facts/res/non-retina/quests/qst023/npc_spine/0.5/npc_quest.json
+- Assets/ma_math_facts/res/non-retina/quests/qst023/npc_spine/0.5/npc_quest_Atlas.asset
+- Assets/ma_math_facts/res/non-retina/quests/qst023/audios/qst023_end_2.mp3
+- Assets/ma_math_facts/res/non-retina/quests/qst023/images/expandable_figurine_of_mayor.png
+- Assets/ma_math_facts/res/non-retina/quests/qst023/audios/qst023_firstmeet_4.mp3
+- Assets/ma_math_facts/res/non-retina/quests/qst023/audios/qst023_gotitem_2.mp3
+- Assets/ma_math_facts/res/non-retina/quests/qst023/audios/qst023_gotitem_1.mp3
+- Assets/ma_math_facts/res/non-retina/quests/qst023/audios/qst023_firstmeet_5.mp3
+- Assets/ma_math_facts/res/non-retina/quests/qst023/npc_spine/0.5/npc_quest.png
+- Assets/ma_math_facts/res/non-retina/quests/qst023/audios/qst023_end_1.mp3
+- Assets/ma_math_facts/res/non-retina/quests/qst023/audios/qst023_firstmeet_3.mp3
+- Assets/ma_math_facts/res/non-retina/quests/qst023/npc_spine/0.5/npc_quest.atlas.txt
+- Assets/ma_math_facts/res/non-retina/quests/qst023/npc_spine/0.5/npc_quest_Material.mat
+Dependencies: []

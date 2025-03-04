@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 835723512
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 111f9203030eba5bf60096b43177e303
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/ma_math_facts/res/english/city_vo/city_dlg_portalthrownout_1.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_hnt_hl3acafe_3.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_dlg_portalnofruits_1.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_hnt_hl1acafe_1.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_hnt_hl3acafe_1.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_tut_nightime_1.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_hnt_hl1anpc_1.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_hnt_hl1ashop_1.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_dlg_nocafe_1.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_dlg_portlafruits_1.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_dlg_blurb_2.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_dlg_portaltap_1.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_dlg_portalthrownout_2.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_dlg_shopnotopen_1.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_hnt_hl3aport_3.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_tut_city_1.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_dlg_portalreturn_3.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_dlg_cafetap_1.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_hnt_hl1anpc_2.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_dlg_shopnotopensingle_1.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_dlg_shopnotopen_2.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_dlg_npcspot_1.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_dlg_blurb_1.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_dlg_nightend_1.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_hnt_hl3acafe_2.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_hnt_hl1aport_1.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_hnt_hl3anpc_1.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_hnt_hl1amvmt_1.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_hnt_hl1ashop_2.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_dlg_nightend_2.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_dlg_blurb_5.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_dlg_portalreturn_1.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_hnt_hl3ashop_1.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_dlg_blurb_4.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_dlg_noshop_1.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_dlg_blurb_3.mp3
+- Assets/ma_math_facts/res/english/city_vo/city_dlg_portalreturn_2.mp3
+Dependencies: []

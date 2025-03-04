@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 707340904
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: integrated_scene.unity3d
+      Dependencies: {}
